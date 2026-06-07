@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+torchmetrics[image]>=1.0.0
+matplotlib
+numpy
+pillow
+requests
+gdown
+tqdm
+scipy

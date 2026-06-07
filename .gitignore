@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch weights and checkpoint files
+*.pth
+*.pt
+*.ckpt
+
+# Large Datasets
+data/
+
+# Training and evaluation outputs (except final summaries used in README)
+output/
+output+flower/
+output_1/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
